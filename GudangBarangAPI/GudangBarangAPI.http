@@ -1,0 +1,6 @@
+@GudangBarangAPI_HostAddress = http://localhost:5288
+
+GET {{GudangBarangAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
